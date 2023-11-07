@@ -8,3 +8,4 @@ Teste2
 dasdasd
 cccccc
 >>>>>>> 67e97cefebc04ba4031c461881ee740d9420fe69
+Exemplo 1: Conflitos de mergeExemplo 1: Conflitos de merge
